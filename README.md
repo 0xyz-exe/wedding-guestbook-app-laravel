@@ -12,6 +12,17 @@ A digital wedding invitation, public RSVP portal, wishes guestbook wall, and rec
 - ✅ **Admin CSV Export**: Streamed download of full guest manifest including names, contacts, RSVP status, headcounts, and wishes.
 - ✅ **Multi-Event Management**: Couples or wedding planners can host and manage multiple wedding ceremonies from a unified dashboard.
 
+## Screenshots
+
+| Tampilan | Preview |
+|---|---|
+| **Dashboard Manajemen Resepsi & Undangan**<br>Ringkasan statistik ucapan, konfirmasi kehadiran RSVP, perkiraan jumlah tamu (pax), dan status check-in resepsi | ![Dashboard Manajemen Resepsi & Undangan](docs/screenshots/01-dashboard-overview.png) |
+| **Portal Undangan Pernikahan & Buku Tamu**<br>Halaman undangan publik dengan kisah cinta mempelai, rincian lokasi/jadwal, formulir RSVP, dan dinding ucapan restu | ![Portal Undangan Pernikahan & Buku Tamu](docs/screenshots/02-public-invitation-portal.png) |
+| **Manifes Tamu & Check-in Meja Resepsi**<br>Daftar lengkap kehadiran tamu, filter status RSVP, jumlah rombongan, tombol toggle check-in kedatangan, dan ekspor CSV | ![Manifes Tamu & Check-in Meja Resepsi](docs/screenshots/03-guest-manifest-checkin.png) |
+| **Direktori Acara Pernikahan**<br>Katalog pengelolaan acara pernikahan, tautan undangan publik, ringkasan jumlah ucapan, dan aksi modifikasi acara | ![Direktori Acara Pernikahan](docs/screenshots/04-weddings-directory.png) |
+
+---
+
 ## Tech Stack
 
 Laravel 13.38.0 · Breeze 2.4 · SQLite · Tailwind CSS · Alpine.js
