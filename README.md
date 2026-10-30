@@ -46,6 +46,15 @@ Once running locally, view the public wedding invitation and guestbook wall at:
 - **wedding_events**: `id`, `user_id`, `bride_name`, `groom_name`, `slug`, `event_date`, `event_time`, `venue_name`, `venue_address`, `story`, `timestamps`
 - **guestbook_entries**: `id`, `wedding_event_id`, `guest_name`, `guest_email`, `relationship` (Friend/Family/Colleague/Relative/Other), `attendance_status` (attending/declined/tentative), `pax_count`, `wishes_message`, `is_confirmed`, `timestamps`
 
+
+## Screenshots
+
+### Dashboard Overview
+![Dashboard](docs/screenshots/01_dashboard.png)
+
+### Login Overview
+![Login](docs/screenshots/02_login.png)
+
 ## License
 
 MIT
